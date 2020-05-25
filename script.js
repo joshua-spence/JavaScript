@@ -1,7 +1,4 @@
-/******************************************
-Treehouse FSJS Techdegree:
-project 1 - A Random Quote Generator
-******************************************/
+
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
 const button = document.getElementById('load-quote');
 const quoteBox = document.getElementById('quote-box');
